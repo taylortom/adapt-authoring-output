@@ -1,0 +1,21 @@
+{
+  "name": "adapt-authoring-output",
+  "version": "0.0.1",
+  "description": "Module for handling course output",
+  "homepage": "https://github.com/taylortom/adapt-authoring-output",
+  "main": "index.js",
+  "adapt_authoring": {
+    "module": true,
+    "documentation": {
+      "enable": true,
+      "includes": {
+        "source": "lib/*",
+        "docs": "docs/*"
+      }
+    }
+  },
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "adapt-authoring-framework": "git+https://github.com/taylortom/adapt-authoring-framework.git"
+  }
+}
