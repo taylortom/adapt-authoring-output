@@ -1,0 +1,5 @@
+{
+  "nocourseid": "Must specify a course id",
+  "unknowncourse": "No course with id '%{courseId}'",
+  "unsupportedfunc": "output module doesn't support '%{route}' function"
+}
