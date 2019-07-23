@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git",
-    "adapt-authoring-framework": "git+https://github.com/taylortom/adapt-authoring-framework.git"
+    "adapt-authoring-framework": "git+https://github.com/taylortom/adapt-authoring-framework.git",
+    "fs-extra": "8.1.0"
   }
 }
